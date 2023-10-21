@@ -5,6 +5,7 @@ export default function SearchIcon() {
       width="1em"
       height="1em"
       viewBox="0 0 24 24"
+      className="icon search-icon"
     >
       <path
         fill="currentColor"

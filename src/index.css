@@ -7,6 +7,10 @@
 html {
   font-size: 62.5%;
 }
-/* ::-webkit-scrollbar {
-  color: red;
-} */
+body {
+  background-color: #212529;
+  color: #f8f9fa;
+}
+.icon {
+  color: white;
+}

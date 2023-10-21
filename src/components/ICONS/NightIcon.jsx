@@ -5,6 +5,7 @@ export default function NightIcon() {
       width="1em"
       height="1em"
       viewBox="0 0 24 24"
+      className="icon"
     >
       <g
         fill="none"
